@@ -64,8 +64,8 @@
 
 /* fixes */
 .theme-dark{
-  --background-modifier-hover:transparent;
-  --background-secondary:transparent;
-  --background-primary:transparent;
-  --background-tertiary:transparent;
+  --background-modifier-hover:none;
+  --background-secondary:none;
+  --background-primary:none;
+  --background-tertiary:none;
 }
